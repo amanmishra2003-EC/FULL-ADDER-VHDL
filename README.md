@@ -9,12 +9,12 @@ CARRY = A AND B
 
 ## Simulation
 <br>
-inputs --> A,B,Cin
+inputs = A,B,Cin
 <br>
-Outp[uts --> SUM, CARRY
+Outputs = SUM, CARRY
 <br>
-Language--> VHDL
+Language = VHDL
 <br>
-Tools --> Modelsim
+Tools = Modelsim
 <br>
-Resuilt --> Output waveforms verifeid
+Resuilt = Output waveforms verifeid
