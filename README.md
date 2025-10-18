@@ -9,7 +9,7 @@ CARRY = A AND B
 
 ## Simulation
 <br>
-*inputs:* A,B,Cin
+**inputs:** A,B,Cin
 <br>
 *Outputs:* SUM, CARRY
 <br>
