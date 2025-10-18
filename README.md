@@ -1,7 +1,7 @@
 ## Overview
 A Full adder is a combinational circuit that adds two -bit binary input and a carry generated from previous bit addition.
 
-# Logic equation
+# #Logic equation
 <br>
 SUM = A XOR B
 <br>
